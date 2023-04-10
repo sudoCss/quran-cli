@@ -1,3 +1,9 @@
+# Quran CLI
+
+A cli to play quran recitations, built with rust and [Quran API](https://alquran.cloud/api)
+
+## Roadmap
+
 -   [x] Show recitations numbered list and user can choose an recitation by entering its number
 -   [x] Show surahs numbered list and user can choose a surah by entering its number
 -   [ ] React to keys while playing:
